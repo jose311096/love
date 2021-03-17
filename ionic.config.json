@@ -1,0 +1,8 @@
+{
+  "name": "love",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "31e6452b"
+}
